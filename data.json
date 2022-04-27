@@ -1,6 +1,10 @@
 {
-  "price": 198,
-  "price-sale": "",
+  "price": 199,
+  "price-sale": 145,
   "banner-title": "Unlock 12 Dynamic Templates",
-  "banner-subtitle": "with All-inclusive Subscription"
+  "banner-subtitle": "with All-inclusive Subscription",
+  "banner-upgrade-label": "Upgrade current plan",
+  "banner-upgrade-link": "https://crocoblock.com/upgrade/?utm_source=dynamic-template-demo&utm_medium=unlock-before-banner&utm_campaign=upgrade-btn",
+  "banner-price-label": "Get from",
+  "banner-price-link": "https://crocoblock.com/pricing/?utm_source=dynamic-template-demo&utm_medium=unlock-before-banner&utm_campaign=get-from-btn"
 }
